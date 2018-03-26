@@ -1,4 +1,4 @@
-
+Any changes/rebuilds in spark-protocol will require an update in spark-server/package-lock.json
 
 Changelog
 =========
